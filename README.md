@@ -99,6 +99,19 @@ ai-fundamentals/
 └── projects/
     └── README.md
 ```
+## Interactive Tools & Class References
+
+Throughout the course sessions, various interactive platforms and simulators are utilized to provide visual, hands-on demonstrations of Machine Learning and Artificial Intelligence concepts. The following resources were referenced and actively explored during the classes:
+
+* [Machine Learning Playground](https://ml-playground.com/)
+* [Yobee AI Simulators](https://simulators.yobee.co.in/)
+* [Bird Sounds (t-SNE Map Experiment)](https://experiments.withgoogle.com/bird-sounds)
+* [t-SNE Map](https://experiments.withgoogle.com/t-sne-map)
+* [Beat Blender](https://experiments.withgoogle.com/ai/beat-blender/view/)
+* [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
+* [Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/)
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
+
 
 ## About the Course
 
